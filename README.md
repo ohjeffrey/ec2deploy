@@ -1,1 +1,1 @@
-# Deploying from Github to AWS EC2
+# Deploying from Github to AWS EC2.
